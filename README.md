@@ -19,13 +19,14 @@ To get started with this project, follow the steps below:
     npm install
     ```
 
-3. Write your API tests using Supertest and Nock. You can find examples and documentation on their respective GitHub repositories:
+3. Write your API tests using Supertest and Nock along with Jest library. You can find examples and documentation on their respective GitHub repositories:
 
     - Supertest: [https://github.com/visionmedia/supertest](https://github.com/visionmedia/supertest)
     - Nock: [https://github.com/nock/nock](https://github.com/nock/nock)
+    - Jest: [https://github.com/jestjs/jest](https://github.com/jestjs/jest)
 
 4. Run the tests:
 
     ```bash
-    npm test
+    npm run test
     ```
